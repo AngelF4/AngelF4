@@ -1,5 +1,5 @@
 
-# Hi there, I'm Angel F. Hernández Gámez 👋
+# Hi, I'm Angel F. Hernández Gámez 👋
 
 I'm a passionate **iOS Developer** specializing in building clean and intuitive mobile applications with Swift, SwiftUI, and UIKit.
 
@@ -14,7 +14,7 @@ Currently, I'm pursuing my Bachelor's degree in Computer Science at the **Facult
 
 ## 📱 What I'm working on
 
-Mostly, I craft engaging **iOS Mobile Applications** focusing on native user experiences and performance optimization.
+Mostly, I craft engaging **iOS Mobile Applications** focusing on native user experiences.
 
 ---
 
@@ -30,5 +30,3 @@ Mostly, I craft engaging **iOS Mobile Applications** focusing on native user exp
 Feel free to connect or reach out through [LinkedIn](https://www.linkedin.com/in/angelfhg).
 
 ---
-
-> Always learning, always growing. Let's build something amazing together! 🚀
